@@ -1,0 +1,5 @@
+make virtualEnv
+    py -m venv env
+
+Actvate on wndows
+    .\env\Scripts\activate
